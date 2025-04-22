@@ -1,0 +1,27 @@
+img { /* Set a default image size for all images */
+    height: 150px;
+}
+
+.description { /* Description class */
+    font-size: 20px;
+}
+
+#cook-time { /* Cook time ID */
+    font-weight: bold;
+}
+
+.ingredients li { /* Ingredients list class */
+    list-style: square;
+}
+
+.time { /* Time class */
+    color: grey;
+}
+
+.external-link { /* External link class */
+    color: seagreen;
+}
+
+h1,h2,p,li { /* h1, h2, p, li elements */
+    font-family: Helvetica;
+}
